@@ -6,6 +6,10 @@ A GTK-based user interface for Ollama.
 
 https://github.com/ollama/ollama
 
+![screenshot 1](https://github.com/user-attachments/assets/8e92db81-ade5-4fd6-95ba-d0077ffc094f)
+
+![screenshot 2](https://github.com/user-attachments/assets/57df28a6-9900-486b-b643-6f7b78e72ae1)
+
 ## Features
 
 - **Conversation Management**: Start new conversations and manage past conversations with quick access via a sidebar.
